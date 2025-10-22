@@ -1,4 +1,7 @@
-# 💫 About Me:
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
  🌱 Currently learning Next.js & TypeScript<br> 💼 Working on several MERN projects<br> 🧩 Exploring AI + Web integration<br> ⚡ Fun fact: I debug with coffee ☕ and music 🎧
 
 
