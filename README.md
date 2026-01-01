@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Shahria-Nafis">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Shahria Nafis" /></a>
+    <h1 align="left" id="macropower-title">:wave: Hello there! I'm Shahria Nafis</h1>
 </p>
 
 <p align="center">
